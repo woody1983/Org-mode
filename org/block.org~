@@ -1,0 +1,29 @@
+
+* 2016
+** 2016-07 July
+*** 2016-07-01 Friday
+**** Code :  ruby?{Lanuange?}					       :tags:
+    #+BEGIN_SRC 
+    %? 
+    #+END_SRC
+**** Code :  ruby							  :a:
+    #+BEGIN_SRC 
+    %? 
+    #+END_SRC
+**** Code :  ruby %? 
+    #+BEGIN_SRC 
+    %? 
+    #+END_SRC
+**** Code :  ruby %? test for capture. 
+    #+BEGIN_SRC 
+    %? 
+    #+END_SRC
+**** Code :  ruby  test 
+    #+BEGIN_SRC 
+    %? 
+    #+END_SRC
+**** Code :  test code  test name 
+    #+BEGIN_SRC ruby 
+    def  
+    #+END_SRC
+

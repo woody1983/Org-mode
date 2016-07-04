@@ -1,0 +1,24 @@
+
+* 2016
+** 2016-06 June
+*** 2016-06-30 Thursday
+**** Memo 
+How to Learn Emacs: A Hand-drawn One-pag
+
+I thought d draw a one-page guide for some of the things that people often ask me about or that would help people learn Emacs (and enjoy it). You can click on the image for a larger version that you can scroll through or download. It should print all right on 8.   paper (landscape) if you want to keep it around as a reminder. Might even work at ... =)115i1117
+
+You can find the image on Imgur and Flickr too.
+
+If re completely new to Emacs, start with these Emacs beginner resources. If re comfortable with Emacs and you want to learn Emacs Lisp, check out my Read Lisp, Tweak Emacs series. For more Emacs inspiration, check out Planet Emacsen.
+
+Feel free to share, reuse, or modify this under the Creative Commons Attribution Licence. Enjoy!
+
+Possibly counterintuitive point: if re a developer or system administrator, s good to learn at least the basics of Vim. Despite the perception of Emacs vs.  holy war (one of the classic battles in computer science), it makes sense to know both editors especially if you work with people who use Vi a lot. Know enough Vi to find your way around, and then learn how to customize Emacs to fit you to a tee. That way, ll avoid the pressure of not being able to work well with your team or your infrastructure, and ll have the space to explore Emacs. =) Emacs is totally awesome. youyouVia tyouyouyou.
+
+Meta discussion: How can I make this even better? What else would you like me to draw a guide for? d love to hear your thoughts! Also, thanks to dash, nicferrier, fledermaus, ijp, hypnocat, Fuco, macrobat, taylanub, axrfnu, Sebboh, thorkill, jave_, jrm, and the rest of #emacs for suggestions and feedback!I
+
+Entered on [2016-06-30 Thu 08:56]
+ 
+ Author: root
+ Tasks:
+

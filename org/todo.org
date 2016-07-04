@@ -1,0 +1,59 @@
+* Tasks
+** DONE Get a Tea						       :Life:
+   CLOSED: [2016-06-30 Thu 08:30a]
+   CLOCK: [2016-06-30 Thu 09:29]--[2016-06-30 Thu 09:32] =>  0:03
+   CLOCK: [2016-06-30 Thu 08:05]--[2016-06-30 Thu 08:30] =>  0:25
+   - CLOSING NOTE [2016-06-30 Thu 08:29] \\
+     Nice Tea!
+** DONE [#E] Pick up my book from Amazon		     :read_book:Life:
+   CLOSED: [2016-06-30 Thu 15:23] DEADLINE: <2016-07-01 Fri> SCHEDULED: <2016-06-30 Thu>
+   - CLOSING NOTE [2016-06-30 Thu 15:23] \\
+     Had a issue in store.
+** TODO Dinner with CHR friends					 :@work:Life:
+   SCHEDULED: <2016-07-01 Fri>
+** TODO Learn Emacs & Org-mode [33%]
+   CLOCK: [2016-06-30 Thu 09:37]--[2016-06-30 Thu 09:57] =>  0:20
+   CLOCK: [2016-06-30 Thu 09:28]--[2016-06-30 Thu 09:29] =>  0:01
+   CLOCK: [2016-06-30 Thu 08:38]--[2016-06-30 Thu 09:28] =>  0:50
+  - [X] Make a Notes
+  - [ ] Write a post
+  - [ ] Put on the Twitter
+   SCHEDULED: <2016-06-30 Thu>
+** TODO Linux Academy course					      :Learn:
+   SCHEDULED: <2016-07-04 Mon>
+** TODO Read Web-site						 :Grow:Learn:
+   SCHEDULED: <2016-06-30 Thu>
+   CLOCK: [2016-07-04 Mon 14:45]
+   CLOCK: [2016-06-30 Thu 18:04]--[2016-06-30 Thu 18:04] =>  0:00
+   CLOCK: [2016-06-30 Thu 11:11]--[2016-06-30 Thu 11:20] =>  0:09
+   CLOCK: [2016-06-30 Thu 10:38]--[2016-06-30 Thu 10:54] =>  0:16
+   CLOCK: [2016-06-30 Thu 10:12]--[2016-06-30 Thu 10:18] =>  0:06
+   CLOCK: [2016-06-30 Thu 09:33]--[2016-06-30 Thu 09:37] =>  0:04
+   
+   [[file:~/org/todo.org::*Get%20a%20Tea][Get a Tea]]
+** TODO Take a Rest						       :Rest:
+   SCHEDULED: <2016-06-30 Thu>
+   CLOCK: [2016-06-30 Thu 10:21]--[2016-06-30 Thu 10:32] =>  0:11
+** DONE Lunch							       :Life:
+   CLOSED: [2016-06-30 Thu 12:15] SCHEDULED: <2016-06-30 Thu>
+   - CLOSING NOTE [2016-06-30 Thu 12:15] \\
+     Cost CNY:17.3
+   CLOCK: [2016-06-30 Thu 11:31]--[2016-06-30 Thu 12:15] =>  0:44
+   
+   [[file:~/org/work.org::*Go%20work][Go work]]
+** TODO Read Book <The Phonenix Project>			:read_Kindle:
+   DEADLINE: <2016-07-10 Sun> SCHEDULED: <2016-06-30 Thu>
+   CLOCK: [2016-06-30 Thu 12:22]--[2016-06-30 Thu 12:34] =>  0:12
+** TODO Read <Ruby PL>						      :@work:
+   SCHEDULED: <2016-06-30 Thu>
+   CLOCK: [2016-06-30 Thu 14:12]--[2016-06-30 Thu 14:18] =>  0:06
+   CLOCK: [2016-06-30 Thu 14:08]--[2016-06-30 Thu 14:09] =>  0:01
+** DONE Take a nap						       :Life:
+   CLOSED: [2016-06-30 Thu 14:10]
+   CLOCK: [2016-06-30 Thu 12:45]--[2016-06-30 Thu 13:31] =>  0:46
+
+** DONE Buy Band-Aid						      :@home:
+   CLOSED: [2016-06-30 Thu 15:23] SCHEDULED: <2016-06-30 Thu> DEADLINE: <2016-06-30 Thu>
+   - CLOSING NOTE [2016-06-30 Thu 15:23] \\
+     2.7 x 2 = 5.4 CNY
+
